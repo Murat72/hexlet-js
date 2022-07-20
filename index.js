@@ -1,4 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log  ("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+document.write(_.last(['one', 'two']));
